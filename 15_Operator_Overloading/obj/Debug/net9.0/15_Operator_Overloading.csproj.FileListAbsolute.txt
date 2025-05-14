@@ -1,0 +1,15 @@
+E:\Object_Oriedted_Programming_in_C_Sharp\15_Operator_Overloading\bin\Debug\net9.0\15_Operator_Overloading.exe
+E:\Object_Oriedted_Programming_in_C_Sharp\15_Operator_Overloading\bin\Debug\net9.0\15_Operator_Overloading.deps.json
+E:\Object_Oriedted_Programming_in_C_Sharp\15_Operator_Overloading\bin\Debug\net9.0\15_Operator_Overloading.runtimeconfig.json
+E:\Object_Oriedted_Programming_in_C_Sharp\15_Operator_Overloading\bin\Debug\net9.0\15_Operator_Overloading.dll
+E:\Object_Oriedted_Programming_in_C_Sharp\15_Operator_Overloading\bin\Debug\net9.0\15_Operator_Overloading.pdb
+E:\Object_Oriedted_Programming_in_C_Sharp\15_Operator_Overloading\obj\Debug\net9.0\15_Operator_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+E:\Object_Oriedted_Programming_in_C_Sharp\15_Operator_Overloading\obj\Debug\net9.0\15_Operator_Overloading.AssemblyInfoInputs.cache
+E:\Object_Oriedted_Programming_in_C_Sharp\15_Operator_Overloading\obj\Debug\net9.0\15_Operator_Overloading.AssemblyInfo.cs
+E:\Object_Oriedted_Programming_in_C_Sharp\15_Operator_Overloading\obj\Debug\net9.0\15_Operator_Overloading.csproj.CoreCompileInputs.cache
+E:\Object_Oriedted_Programming_in_C_Sharp\15_Operator_Overloading\obj\Debug\net9.0\15_Operator_Overloading.sourcelink.json
+E:\Object_Oriedted_Programming_in_C_Sharp\15_Operator_Overloading\obj\Debug\net9.0\15_Operator_Overloading.dll
+E:\Object_Oriedted_Programming_in_C_Sharp\15_Operator_Overloading\obj\Debug\net9.0\refint\15_Operator_Overloading.dll
+E:\Object_Oriedted_Programming_in_C_Sharp\15_Operator_Overloading\obj\Debug\net9.0\15_Operator_Overloading.pdb
+E:\Object_Oriedted_Programming_in_C_Sharp\15_Operator_Overloading\obj\Debug\net9.0\15_Operator_Overloading.genruntimeconfig.cache
+E:\Object_Oriedted_Programming_in_C_Sharp\15_Operator_Overloading\obj\Debug\net9.0\ref\15_Operator_Overloading.dll
